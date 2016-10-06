@@ -1,4 +1,5 @@
 // radsketch.pde
+// commento allo sketch
 
 void setup() {
   size(200,200);
